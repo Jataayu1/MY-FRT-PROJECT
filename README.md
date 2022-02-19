@@ -1,15 +1,15 @@
-# Weather-Application
+# This is a Weather-Application
 
-This is a Weather Application project done under FRT Internship .
-PROJECT DEMO LINK : https://dynamicweatherapplication1.azurewebsites.net/
+This is a Our Weather Application project done under FRT Internship .
+DEMO LINK : https://dynamicweatherapplication1.azurewebsites.net/
 
-Outcomes Of The Project :
+ It's Outcomes Of The Project :
 1) With the help of these application you can check the weather in your city .
 2) You can click on the "Get Device Location " button  to get the weather update of your particular Location.
 3) You will get the attributes such temprature in celsius , humidity , location and weather conditions.
 4) This project is Deployed on Microsoft azure so that you can access it anytime .
 
-Tech Used In The Project :
+Tech Used for the project :
 
 1.For This Project HTML CSS & JavaScript are prerequisite.
 
